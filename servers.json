@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "PInaTe Server",
-            "address": "https://ani.pnut.cn/"
+            "address": "https://ani.pnut.cn"
         }
     ]
 }
